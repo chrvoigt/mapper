@@ -6,15 +6,24 @@
 Welcome to Observation Mapper's documentation!
 ==============================================
 
-.. toctree::
+.. toctree:: 
    :maxdepth: 2
    :caption: Contents:
 
 
 
-Indices and tables
-==================
+Getting Started
+================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+STEP-BY-STEP GUIDES
+====================
+
+.. versionchanged:: version
+adding streamlit support 
+
+.. seealso::
+External project documentation <https://innodesign.io/>
